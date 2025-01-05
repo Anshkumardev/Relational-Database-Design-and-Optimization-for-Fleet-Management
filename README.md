@@ -11,3 +11,7 @@ A compact, scalable **relational database** system for a self-service transporta
 - **Many-to-Many Maintenance Tracking**: Scalable relationships to log vehicle maintenance/service history.  
 - **Optimized Queries**: JOINs, subqueries, and aggregates for revenue, customer behavior, and operational analytics.  
 - **Scalable & Maintainable**: Easily extended to new business features (e.g., loyalty programs, multi-location support).
+
+This repository contains the final project for **INFO 579**, provided in PDF format.  
+You can find the complete documentation here:  
+[**INFO_579_FINAL_PROJECT.pdf**](INFO_579_FINAL_PROJECT.pdf)
